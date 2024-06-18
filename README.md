@@ -12,9 +12,9 @@ Features:
 
 Technologies Used:
 
-1.HTML5: For the structure of the web pages.
+1.HTML: For the structure of the web pages.
 
-2.CSS3: For styling and layout.
+2.CSS: For styling and layout.
 
 3.JavaScript: For adding interactivity and dynamic behavior.
 
