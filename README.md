@@ -1,0 +1,1 @@
+This project is a clone of GitHub's user interface, built using HTML, CSS, and JavaScript to replicate the look and feel of the popular code hosting platform. It aims to provide a visually similar and functional experience to the original GitHub UI.
