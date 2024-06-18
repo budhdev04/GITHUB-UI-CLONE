@@ -7,10 +7,7 @@ Repository View: Displays repository information such as readme files, branches,
 User Profiles: Mimics the layout and design of GitHub user profiles, showcasing user information, repositories, followers, and following.
 
 Technologies Used
-
 HTML5: For the structure of the web pages.
-
 CSS3: For styling and layout.
-
 JavaScript: For adding interactivity and dynamic behavior.
 
